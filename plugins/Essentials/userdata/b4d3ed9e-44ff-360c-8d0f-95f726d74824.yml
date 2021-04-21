@@ -1,0 +1,21 @@
+lastAccountName: Alfredito
+timestamps:
+  login: 1609884659704
+  logout: 1609890644065
+  lastteleport: 1609890426963
+ipAddress: 139.47.111.167
+lastlocation:
+  world: world
+  x: 138.42394187759692
+  y: 68.0
+  z: 213.07433184633726
+  yaw: -9.749929
+  pitch: 8.549977
+logoutlocation:
+  world: world
+  x: 362.84498317834726
+  y: 105.0
+  z: 397.8498033327085
+  yaw: 351.59106
+  pitch: 19.049925
+money: '0'

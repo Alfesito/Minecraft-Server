@@ -1,0 +1,31 @@
+lastAccountName: Alfesito
+timestamps:
+  login: 1613323675100
+  logout: 1613325353609
+  lastteleport: 1613323228516
+ipAddress: 192.168.1.59
+logoutlocation:
+  world: world
+  x: 701.6020288058858
+  y: 68.0
+  z: 307.69999998807907
+  yaw: -245.56989
+  pitch: 57.258038
+money: '2193.2680000000000329'
+afk: false
+lastlocation:
+  world: world
+  x: 661.1852169920801
+  y: 45.0
+  z: 343.98418313456773
+  yaw: 10.867521
+  pitch: 11.503178
+homes:
+  home:
+    world: world
+    x: 661.4655209485824
+    y: 45.0
+    z: 345.6880093265218
+    yaw: 0.54125977
+    pitch: 2.8558605
+godmode: false

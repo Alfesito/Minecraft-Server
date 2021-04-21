@@ -1,0 +1,21 @@
+users:
+  76bfd4a5-a0da-30d8-9317-dd593e2096ef:
+    lastname: AlFe08
+    group: Amigos
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Default
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Default
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Default
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

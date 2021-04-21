@@ -1,0 +1,31 @@
+lastAccountName: AlFe08
+timestamps:
+  login: 1617114480060
+  logout: 1617120099162
+  lastteleport: 1617119881260
+ipAddress: 192.168.1.45
+money: '5151.93300000000011979'
+logoutlocation:
+  world: world
+  x: 592.6341470416452
+  y: 69.0
+  z: 392.5769632876603
+  yaw: 93.90174
+  pitch: 68.85007
+lastlocation:
+  world: world
+  x: 820.4732240518778
+  y: 78.0
+  z: 276.31896862596943
+  yaw: -288.45245
+  pitch: 19.500061
+afk: false
+homes:
+  home:
+    world: world
+    x: 577.532718147342
+    y: 72.0
+    z: 417.52268193585564
+    yaw: 58.910698
+    pitch: 87.599976
+godmode: false

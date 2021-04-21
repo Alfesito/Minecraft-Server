@@ -1,0 +1,22 @@
+lastAccountName: alfarocles777
+timestamps:
+  login: 1613140860108
+  logout: 1613142616193
+  lastteleport: 1609889823438
+ipAddress: 192.168.1.64
+logoutlocation:
+  world: world
+  x: 576.4871958389888
+  y: 74.0
+  z: 421.94040690837204
+  yaw: -81.30786
+  pitch: 16.35
+money: '0'
+lastlocation:
+  world: world
+  x: 543.6999999880794
+  y: 60.0
+  z: 354.69999998807896
+  yaw: -256.96973
+  pitch: -74.999825
+afk: false

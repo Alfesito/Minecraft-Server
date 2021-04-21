@@ -1,0 +1,465 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&4&l          Construccion'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'tiendaconstruccion'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  #open-action: 'sound: none'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+1:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+2:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 2
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+3:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 3
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+4:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+5:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 5
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+6:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 6
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+7:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 7
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+8:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 8
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+9:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 1
+  KEEP-OPEN: true
+
+10:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+11:
+  COMMAND: 'confladrillo'
+  NAME: 'Ladrillo'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $50'
+  ID: 45
+  DATA-VALUE: 4
+  POSITION-X: 2
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+12:
+  COMMAND: 'confterracota'
+  NAME: 'Terracota'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $75'
+  ID: 172
+  POSITION-X: 3
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+13:
+  COMMAND: 'confpiedra'
+  NAME: 'Piedra'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $25'
+  ID: 1
+  POSITION-X: 4
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+14:
+  COMMAND: 'confarenisca'
+  NAME: 'Arenisca'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $50'
+  ID: 24
+  POSITION-X: 5
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+15:
+  COMMAND: 'confcuarzo'
+  NAME: 'Cuarzo'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $200'
+  ID: 155
+  POSITION-X: 6
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+16:
+  COMMAND: 'confladrilloneth'
+  NAME: 'Ladrillo Nether'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $75'
+  ID: 112
+  POSITION-X: 7
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+17:
+  COMMAND: 'confprismarina'
+  NAME: 'Prismarina'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $3000'
+  ID: 168
+  DATA-VALUE: 4
+  POSITION-X: 8
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+18:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 2
+  KEEP-OPEN: true
+
+19:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+20:
+  COMMAND: 'confarena'
+  NAME: 'Arena'
+  ID: 12
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $25'
+  POSITION-X: 2
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+21:
+  COMMAND: 'confgrava'
+  NAME: ' Grava'
+  ID: 13
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $25'
+  POSITION-X: 3
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+22:
+  COMMAND: 'conflana'
+  NAME: 'Lana'
+  ID: 35
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $50'
+  POSITION-X: 4
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+23:
+  COMMAND: 'confcristal'
+  NAME: 'Cristal'
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $50'
+  ID: 20
+  POSITION-X: 5
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+24:
+  COMMAND: 'confbasalto'
+  NAME: 'Basalto'
+  ID: 166
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $150'
+  POSITION-X: 6
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+25:
+  COMMAND: 'confpiedraend'
+  NAME: 'Piedra End'
+  ID: 121
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $100'
+  POSITION-X: 7
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+26:
+  COMMAND: ''
+  NAME: 'Piedra Base'
+  ID: 7
+  LORE:
+    - '&2[Click para comprar]'
+    - '&fPrecio: $100000000'
+  POSITION-X: 8
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+27:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 3
+  KEEP-OPEN: true
+
+28:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 1
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+29:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 2
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+30:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 3
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+31:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+32:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 5
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+33:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 6
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+34:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 7
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+35:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 8
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+36:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 4
+  KEEP-OPEN: true
+
+35:
+  COMMAND: 'tienda'
+  NAME: '&1&1volver'
+  ID: 439
+  POSITION-X: 1
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+36:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 2
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+37:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 3
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+38:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 4
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+39:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 5
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+40:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 6
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+41:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 7
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+42:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 8
+  POSITION-Y: 5
+  KEEP-OPEN: true
+
+43:
+  COMMAND: ''
+  NAME: ''
+  ID: 160
+  DATA-VALUE: 5
+  POSITION-X: 9
+  POSITION-Y: 5
+  KEEP-OPEN: true

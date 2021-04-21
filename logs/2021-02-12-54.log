@@ -1,0 +1,13 @@
+[21:41:29] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:41:29] [main/FATAL]: Failed to start the minecraft server
+java.io.IOException: El proceso no tiene acceso al archivo porque otro proceso tiene bloqueada una parte del archivo
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_261]
+	at sun.nio.ch.FileDispatcherImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.FileChannelImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.server.v1_16_R3.SessionLock.a(SourceFile:40) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.<init>(Convertable.java:218) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable.c(Convertable.java:200) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Main.main(Main.java:97) [spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.Main.main(Main.java:202) [spigot.jar:git-Spigot-37d799b-3eb7236]

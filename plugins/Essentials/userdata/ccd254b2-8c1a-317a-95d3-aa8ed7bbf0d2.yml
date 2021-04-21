@@ -1,0 +1,21 @@
+lastAccountName: leirevb
+timestamps:
+  login: 1609884843599
+  logout: 1609888129508
+  lastteleport: 1609886697878
+ipAddress: 88.23.48.82
+lastlocation:
+  world: city
+  x: -4.962077098915077
+  y: 70.5
+  z: 335.05590483542545
+  yaw: -72.89959
+  pitch: 35.999928
+logoutlocation:
+  world: city
+  x: -81.0978306862452
+  y: 58.0
+  z: 361.6657953228745
+  yaw: 51.742798
+  pitch: 32.699802
+money: '0'

@@ -1,0 +1,30 @@
+lastAccountName: Adrinorte99
+timestamps:
+  login: 1613317583383
+  logout: 1613323664967
+  lastteleport: 1612802588992
+ipAddress: 83.61.254.101
+logoutlocation:
+  world: world
+  x: 603.5875664841972
+  y: 68.0
+  z: 324.00284165037215
+  yaw: 80.099976
+  pitch: 16.650007
+money: '109.0050000000000006'
+lastlocation:
+  world: world_nether
+  x: 67.69999998807907
+  y: 96.0
+  z: 280.24883569005397
+  yaw: -358.9181
+  pitch: 21.90012
+afk: false
+homes:
+  home:
+    world: world
+    x: 602.3753603297107
+    y: 68.5625
+    z: 326.9351236532805
+    yaw: 175.60193
+    pitch: 75.89986

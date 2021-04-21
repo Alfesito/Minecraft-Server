@@ -1,0 +1,22 @@
+lastAccountName: beniin
+timestamps:
+  login: 1609884439701
+  logout: 1609888795672
+  lastteleport: 1609888787780
+ipAddress: 85.251.244.45
+logoutlocation:
+  world: world
+  x: 127.5
+  y: 68.0
+  z: 177.5
+  yaw: 65.39978
+  pitch: 23.39996
+lastlocation:
+  world: city
+  x: -11.43119506554811
+  y: 70.0
+  z: -2.30000001192093
+  yaw: 90.898224
+  pitch: 16.79993
+money: '0'
+afk: false

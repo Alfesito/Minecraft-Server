@@ -1,0 +1,428 @@
+[22:42:43] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:42:44] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:42:45] [Worker-Main-10/INFO]: Loaded 7 recipes
+[22:42:47] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:42:47] [Server thread/INFO]: Loading properties
+[22:42:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[22:42:48] [Server thread/INFO]: Debug logging is disabled
+[22:42:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:42:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:42:48] [Server thread/INFO]: Default game type: SURVIVAL
+[22:42:48] [Server thread/INFO]: Generating keypair
+[22:42:48] [Server thread/INFO]: Starting Minecraft server on 192.168.1.45:25565
+[22:42:48] [Server thread/INFO]: Using default channel type
+[22:42:52] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:42:57] [Server thread/WARN]: Legacy plugin SimpleJail v2.1.1 does not specify an api-version.
+[22:42:57] [Server thread/WARN]: Legacy plugin ChestCommands v3.1.4 does not specify an api-version.
+[22:42:57] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.8.8
+[22:42:57] [Server thread/INFO]: [Minepacks] Loading Minepacks v2.3.21.2-Release
+[22:42:57] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[22:42:57] [Server thread/INFO]: [VillagerOptimiser] Loading VillagerOptimiser v1.1.5
+[22:42:57] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[22:42:57] [Server thread/INFO]: [LimitPillagers] Loading LimitPillagers v3.0.0
+[22:42:57] [Server thread/INFO]: [SimpleJail] Loading SimpleJail v2.1.1
+[22:42:57] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[22:42:57] [Server thread/INFO]: [MyCommand] Loading MyCommand v5.6.9
+[22:42:57] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[22:42:57] [Server thread/INFO]: [EntityTrackerFixer] Loading EntityTrackerFixer v1.3.3
+[22:42:57] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[22:42:57] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[22:42:57] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[22:42:57] [Server thread/INFO]: [Jobs] Loading Jobs v4.17.0
+[22:42:57] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.18.2.0
+[22:42:57] [Server thread/INFO]: [LimitPillagers] Enabling LimitPillagers v3.0.0
+[22:42:57] [Server thread/INFO]: [LimitPillagers] Registering commands...
+[22:42:57] [Server thread/INFO]: [LimitPillagers] Registering listeners...
+[22:42:57] [Server thread/INFO]: [LimitPillagers] Loading config.yml...
+[22:42:58] [Server thread/INFO]: [LimitPillagers] Registering metrics...
+[22:42:58] [Server thread/INFO]: [LimitPillagers] 
+[22:42:58] [Server thread/INFO]: [LimitPillagers] If you are still having Pillager related lag after using this plugin you can do the following:
+[22:42:58] [Server thread/INFO]: [LimitPillagers] - Increase the limiter check distance between Pillagers
+[22:42:58] [Server thread/INFO]: [LimitPillagers] - Lower the stop at amount of the limiter
+[22:42:58] [Server thread/INFO]: [LimitPillagers] - Enable the remover which will remove all Pillagers in future loaded chunks (Good for if you have already have mass pillagers saved in unloaded chunks before this plugin)
+[22:42:58] [Server thread/INFO]: [LimitPillagers] - Enable the stopper to remove all future Pillager spawners (Last resort)
+[22:42:58] [Server thread/INFO]: [LimitPillagers] 
+[22:42:58] [Server thread/INFO]: [LimitPillagers] I also HIGHLY recommend to follow this guide for an overall increase of performance: https://www.spigotmc.org/threads/283181/
+[22:42:58] [Server thread/INFO]: [LimitPillagers] 
+[22:42:58] [Server thread/INFO]: [LimitPillagers] Done and enabled in 115,78ms
+[22:42:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[22:42:58] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[22:42:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:42:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:42:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[22:42:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:42:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:42:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:42:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:42:58] [Server thread/INFO]: Preparing level "world"
+[22:42:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:42:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:42:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:42:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:42:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:42:58] [Server thread/INFO]: View Distance: 20
+[22:42:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:42:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:42:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:42:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:42:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:42:58] [Server thread/INFO]: Mob Spawn Range: 6
+[22:42:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:42:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:42:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:42:58] [Server thread/INFO]: Max TNT Explosions: 100
+[22:42:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:42:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:42:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:42:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:42:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:42:58] [Server thread/INFO]: View Distance: 20
+[22:42:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:42:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:42:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:42:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:42:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:42:58] [Server thread/INFO]: Mob Spawn Range: 6
+[22:42:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:42:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:42:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:42:58] [Server thread/INFO]: Max TNT Explosions: 100
+[22:42:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:42:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:42:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:42:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:42:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:42:58] [Server thread/INFO]: View Distance: 20
+[22:42:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:42:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:42:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:42:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:42:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:42:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:42:58] [Server thread/INFO]: Mob Spawn Range: 6
+[22:42:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:42:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:42:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:42:58] [Server thread/INFO]: Max TNT Explosions: 100
+[22:42:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:43:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:00] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:00] [Server thread/INFO]: Preparing spawn area: 50%
+[22:43:01] [Server thread/INFO]: Time elapsed: 2830 ms
+[22:43:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:43:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:02] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:03] [Server thread/INFO]: Time elapsed: 1901 ms
+[22:43:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:43:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:03] [Worker-Main-17/INFO]: Preparing spawn area: 83%
+[22:43:04] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[22:43:04] [Worker-Main-9/INFO]: Preparing spawn area: 91%
+[22:43:04] [Server thread/INFO]: Time elapsed: 1526 ms
+[22:43:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.8.8
+[22:43:04] [Server thread/INFO]: [SkinsRestorer] Failed PaperSkinRefresher
+[22:43:04] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[22:43:04] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[22:43:06] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.3.21.2-Release
+[22:43:06] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[22:43:07] [Server thread/INFO]: [Minepacks] [32mConfig file successfully loaded.[0m
+[22:43:07] [Server thread/INFO]: [Minepacks] [32mLanguage file successfully loaded. Language: english  Author: GeorgH93[0m
+[22:43:07] [Server thread/INFO]: Minepacks-Connection-Pool - Starting...
+[22:43:07] [Server thread/INFO]: Minepacks-Connection-Pool - Start completed.
+[22:43:08] [Server thread/INFO]: [Minepacks] [32mItem name language file successfully loaded. Language: english  Author: GeorgH93[0m
+[22:43:08] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[22:43:08] [Server thread/INFO]: [Minepacks] Finished loading item translations for 829 items.
+[22:43:08] [Server thread/INFO]: [Minepacks] [32m Minepacks has been enabled! [33m :) [0m
+[22:43:08] [Server thread/INFO]: [VillagerOptimiser] Enabling VillagerOptimiser v1.1.5
+[22:43:08] [Server thread/INFO]: [VillagerOptimiser] Loading config.yml...
+[22:43:08] [Server thread/INFO]: [VillagerOptimiser] Successfully loaded config.yml.
+[22:43:08] [Server thread/INFO]: [VillagerOptimiser] Successfully enabled.
+[22:43:08] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[22:43:08] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[22:43:08] [Server thread/INFO]: [ClearLag] Loading modules...
+[22:43:08] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[22:43:08] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[22:43:08] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[22:43:08] [Server thread/INFO]: [SimpleJail] Enabling SimpleJail v2.1.1
+[22:43:08] [Server thread/INFO]: [MyCommand] Enabling MyCommand v5.6.9
+[22:43:08] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[22:43:08] [Server thread/INFO]: | Vault  : Ok. Hooked on Vault 1.7.3-b131
+[22:43:08] [Thread-11/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[22:43:08] [Server thread/ERROR]: Cannot load plugins\MyCommand\commands\examples.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'string', line 35, column 5:
+      - /tellraw $player {text: "Compra  ... 
+        ^
+expected <block end>, but found '}'
+ in 'string', line 35, column 62:
+     ... Compra cancelada, color: orange"}
+                                         ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:59) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:186) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at it.emmerrei.mycommand.InitializeConfigFiles.LoadCommandsFiles(InitializeConfigFiles.java:320) ~[?:?]
+	at it.emmerrei.mycommand.InitializeConfigFiles.checkConfig(InitializeConfigFiles.java:149) ~[?:?]
+	at it.emmerrei.mycommand.Main.onEnable(Main.java:304) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:494) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:408) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'string', line 35, column 5:
+      - /tellraw $player {text: "Compra  ... 
+        ^
+expected <block end>, but found '}'
+ in 'string', line 35, column 62:
+     ... Compra cancelada, color: orange"}
+                                         ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:572) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:235) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:209) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:257) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:248) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:236) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:162) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:95) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:119) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:150) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:472) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:398) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[spigot.jar:git-Spigot-37d799b-3eb7236]
+	... 16 more
+[22:43:08] [Server thread/INFO]: | Command file(s) found : 1
+[22:43:08] [Server thread/INFO]: | Config : Ready.
+[22:43:08] [Server thread/INFO]: | ProtocolLib not found.
+[22:43:08] [Server thread/INFO]: | PlaceholderAPI: Not Found
+[22:43:08] [Server thread/INFO]: | Custom commands loaded : 0
+[22:43:08] [Server thread/INFO]: | Version: 5.6.9
+[22:43:08] [Server thread/INFO]: | Author : emmerrei a.k.a Ivanpro
+[22:43:08] [Thread-11/INFO]: [ClearLag] No updates found!
+[22:43:09] [Server thread/INFO]: | You are running the latest version of MyCommand.
+[22:43:09] [Server thread/INFO]: *-=-=-=-=-=-=-=-=-=-*   Done!   *-=-=-=-=-=-=-=-=-=-=-*
+[22:43:09] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[22:43:09] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[22:43:09] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[22:43:09] [Server thread/INFO]: -------- World Settings For [city] --------
+[22:43:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:43:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:43:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:43:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:43:09] [Server thread/INFO]: View Distance: 20
+[22:43:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:43:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:43:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:43:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:43:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:43:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:43:09] [Server thread/INFO]: Mob Spawn Range: 6
+[22:43:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:43:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:43:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:43:09] [Server thread/INFO]: Max TNT Explosions: 100
+[22:43:09] [Server thread/INFO]: Preparing start region for dimension minecraft:city
+[22:43:10] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:10] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:10] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:10] [Server thread/INFO]: Preparing spawn area: 2%
+[22:43:11] [Server thread/INFO]: Time elapsed: 1968 ms
+[22:43:11] [Server thread/INFO]: -------- World Settings For [funland] --------
+[22:43:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:43:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:43:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:43:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:43:11] [Server thread/INFO]: View Distance: 20
+[22:43:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:43:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:43:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:43:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:43:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:43:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:43:11] [Server thread/INFO]: Mob Spawn Range: 6
+[22:43:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:43:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:43:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:43:11] [Server thread/INFO]: Max TNT Explosions: 100
+[22:43:11] [Server thread/INFO]: Preparing start region for dimension minecraft:funland
+[22:43:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:12] [Server thread/INFO]: Preparing spawn area: 0%
+[22:43:12] [Server thread/INFO]: Time elapsed: 631 ms
+[22:43:12] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[22:43:12] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Enabling EntityTrackerFixer v1.3.3
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting untrack ticks to: 400
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting check frequency to: 40
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting tracking range to: 30
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting minimun TPS to: 19.5
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting enable on all worlds to: false
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_nether
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Adding world: world_the_end
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting log to console to: true
+[22:43:12] [Server thread/INFO]: [EntityTrackerFixer] Setting disable tick for untracked to: true
+[22:43:12] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[22:43:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[22:43:12] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[22:43:12] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[22:43:12] [Server thread/INFO]: No kits found to migrate.
+[22:43:12] [Server thread/INFO]: Loaded 25599 items from items.json.
+[22:43:12] [Server thread/INFO]: Using locale es
+[22:43:12] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:43:12] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:43:12] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[22:43:12] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[22:43:12] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[22:43:12] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[22:43:12] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[22:43:12] [Server thread/INFO]: [Jobs] Enabling Jobs v4.17.0
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1076 custom item names![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 72 custom entity names![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 2 custom MythicMobs names![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 38 custom enchant names![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
+[22:43:20] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 81 furnace for reassigning.[m
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 20 brewing for reassigning.[m
+[22:43:21] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[22:43:21] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[22:43:21] [ForkJoinPool.commonPool-worker-1/INFO]: [0;33;1m[Jobs] Preloaded 9 players data in 0.01[m
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (2171)[m
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[22:43:21] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.18.2.0
+[22:43:21] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[22:43:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:43:21] [Server thread/INFO]: Done (23.428s)! For help, type "help"
+[22:43:21] [Craft Scheduler Thread - 0/INFO]: [LimitPillagers] Checking for updates...
+[22:43:21] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[22:43:21] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[22:43:22] [Craft Scheduler Thread - 0/INFO]: [LimitPillagers] There is no update available!
+[22:43:22] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |---------------|[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    |   [0;34;1m[4m[21mBukkit only[0;32;1m |[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.8.8[m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[22:43:22] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[22:45:13] [User Authenticator #1/INFO]: UUID of player AlFe08 is 76bfd4a5-a0da-30d8-9317-dd593e2096ef
+[22:45:14] [Server thread/INFO]: AlFe08[/192.168.1.45:50817] logged in with entity id 1023 at ([world]126.38122819091629, 68.0, 178.48435405975835)
+[22:45:14] [Server thread/INFO]: '[0;35;1mAlFe08[0;35;1m ha entrado en el server'[m
+[22:45:24] [Server thread/INFO]: AlFe08 issued server command: /dinero
+[22:45:43] [Server thread/INFO]: AlFe08 lost connection: Disconnected
+[22:45:43] [Server thread/INFO]: 'AlFe08 se despide'

@@ -1,0 +1,21 @@
+lastAccountName: nebur30
+timestamps:
+  login: 1608835120938
+  lastteleport: 1608816965478
+  logout: 1608835898216
+ipAddress: 37.11.66.245
+lastlocation:
+  world: world
+  x: 266.76845433746024
+  y: 129.0
+  z: 362.36356624501286
+  yaw: -95.8472
+  pitch: 9.750107
+logoutlocation:
+  world: world
+  x: 529.8374550076297
+  y: 63.0
+  z: 197.8370626924524
+  yaw: -70.13253
+  pitch: 1.9533542
+money: '0'
